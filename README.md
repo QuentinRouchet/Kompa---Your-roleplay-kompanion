@@ -20,4 +20,13 @@ With this app you can play with your friends in real life but you can also keep 
 
 ## Prototype
 
-!(./img/prototype_01.png)
+![alt text](./img/prototype_01.png)
+![alt text](./img/prototype_02.png)
+![alt text](./img/prototype_03.png)
+![alt text](./img/prototype_04.png)
+![alt text](./img/prototype_05.png)
+![alt text](./img/prototype_06.png)
+![alt text](./img/prototype_07.png)
+![alt text](./img/prototype_08.png)
+![alt text](./img/prototype_09.png)
+![alt text](./img/prototype_10.png)
