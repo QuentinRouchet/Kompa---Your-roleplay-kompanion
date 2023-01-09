@@ -18,4 +18,6 @@ With this app you can play with your friends in real life but you can also keep 
 - Possibility to play directly on the app with a “board”
 - The character can be move on the board with a drag and drop system
 
-![alt text](./img/prototype_01.png)
+## Prototype
+
+!(./img/prototype_01.png)
